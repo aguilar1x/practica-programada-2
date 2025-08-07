@@ -1,14 +1,14 @@
--------DATA BASE---------
+-------BASE DE DATOS---------
 
 CREATE DATABASE FIDE_FDB_ESTUDIO_CASO_DOS
 GO
 
------USE DATA BASE-------
+-----USAR BASE DE DATOS-------
 
 USE FIDE_FDB_ESTUDIO_CASO_DOS;
 GO
 
----------TABLES----------
+---------TABLEAS----------
 
 CREATE TABLE FIDE_ESTADO_TB (
     ID_ESTADO INT,
