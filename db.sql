@@ -113,7 +113,6 @@ CREATE TABLE FIDE_AUDITORIA_TB (
 );
 GO
 
-
 -----------------FIDE_ESTADO_TB---------------------
 
 SELECT * FROM FIDE_ESTADO_TB;
